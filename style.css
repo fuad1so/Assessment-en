@@ -1,0 +1,94 @@
+body {
+background-image: url("https://huntersbarinfantschool.co.uk/wp-content/uploads/2021/10/English-Word-Art.png");
+}
+
+
+
+.header{
+  width: 100%;
+  height: 100px;
+  background-color: #72e3ff;
+  margin-top:1rem;
+  color: #8a2be2;
+}
+
+.logo {
+  width:80px ;
+  height: 80%;
+  border-radius : 50%;
+  background-color: white;
+  text-align: center;
+  float: left;
+  margin-right: 3rem;
+  margin-top: 10px;
+  padding-top: 1.5rem;
+}
+
+
+.quiz-container {
+    max-width: 800px;
+   
+    margin: 0 auto;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: azure;
+
+}
+
+.oneResult {
+    width: 22px;
+    height: 22px;
+    border-radius:45%;
+    display: inline-block;
+    margin: 3px;
+    animation: zoom-in-zoom-out 1s ease-in;
+}
+hr {
+    border: 2px solid #1a006e; /* Border color */
+}
+.adderss{
+    background-color: #8a2be2;
+    border: solid 2px black;
+   border-radius: 10px;
+   color: azure;
+   font-weight: bold;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+  @keyframes zoom-in-zoom-out {
+    0% {
+      transform: scale(0, 0);
+    }
+ 
+    100% {
+      transform: scale(1, 1);
+    }
+    
+  }
+  canvas {
+    display: block;
+    margin: 0.2rem 0.3rem;
+  }
+.f-bolder{
+  border: 5px  solid rgb(0, 0, 192);
+  border-radius: 15px;
+  box-shadow: 5px 5px 10px 00 #717070; ;
+width: 70%;
+margin: auto ;
+}
+.f-text {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   color: #8a2be2;
+  font-weight: bold;
+
+}
+#next{
+  width: 300px;
+  margin:auto ;
+  display: flex;
+  justify-content: center;
+
+
+}
+.f-size{
+  height: 400px;
+}
