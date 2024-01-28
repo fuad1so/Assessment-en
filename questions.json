@@ -1,0 +1,49 @@
+[
+    {
+      "questionText": "Emily: What do you do at the weekends, Yara? <br> Yara: My sister and I ..... going to the cinema",
+      "options": ["like", "like to", "want" , "want to"],
+      "correctAnswer": "like"
+    },
+    {
+      "questionText": "Manager: Where’s Mr Davidson?<br>Assistant: Oh, he's..... London today",
+      "options": ["in", "on", "to","at"],
+      "correctAnswer": "to"
+    },
+    {
+      "questionText": "Amirah: Do you like cats?<br>Chris: No, but there ...... lots of other animals I like",
+      "options": ["is", "be", "are","was"],
+      "correctAnswer": "are"
+    },
+    {
+        "questionText": "Amirah: Do you like cats?<br>Chris: No, but there ...... lots of other animals I like",
+        "options": ["is", "be", "are","was"],
+        "correctAnswer": "are"
+    },
+    {
+        "questionText": "I’m 18 and my brother is 20, so he’s........ me. ",
+        "options": ["the oldest of", "older than", "as old as"],
+        "correctAnswer": "older than"
+    },
+    {
+        "questionText": "Carl’s very ........ . He’s never late, and he never forgets to do things ",
+        "options": ["reliable", "patient", "strict"],
+        "correctAnswer": "strict"
+    },
+    {
+        "questionText": "We stayed in a lovely villa ........ the sea.",
+        "options": ["it overlooks", "overlooked", "overlooking"],
+        "correctAnswer": "overlooking"
+    },
+    {
+        "questionText": "Not until the 1980s ........ for the average person to own a computer",
+        "options": ["it was possible", "was it possible", "was possible"],
+        "correctAnswer": "it was possible"
+    },
+    {
+        "questionText": "Jan ........ her arm on a hot iron",
+        "options": ["broke ", "burned", "sprained"],
+        "correctAnswer": "burned"
+    }
+
+
+  ]
